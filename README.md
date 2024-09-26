@@ -1,6 +1,6 @@
 # Single Page Portfolio
 
-[LIVE DEMO](https://dev-portfolio.netlify.app/)
+[LIVE DEMO](https://dev-portfolio-dngtnv.netlify.app/)
 
 ![](./doc/page.png)
 
